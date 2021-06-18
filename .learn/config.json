@@ -1,0 +1,153 @@
+{
+    "config": {
+        "port": 3000,
+        "address": "https://teal-parakeet-vriyvxne.ws-eu08.gitpod.io",
+        "editor": {
+            "mode": "gitpod",
+            "version": "1.0.61"
+        },
+        "dirPath": "./.learn",
+        "configPath": "bc.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "grading": "isolated",
+        "exercisesPath": "./",
+        "disableGrading": false,
+        "actions": [
+            "build",
+            "test",
+            "reset"
+        ],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "translations": []
+    },
+    "title": "Instagram Post",
+    "slug": "instagram-post",
+    "status": "published",
+    "translations": [
+        "es",
+        "en"
+    ],
+    "solution": "https://codepen.io/alesanchezr/pen/zeaaVx",
+    "duration": 4,
+    "difficulty": "beginner",
+    "technologies": [
+        "html",
+        "css",
+        "layouts"
+    ],
+    "preview": "https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true",
+    "description": "Replicate a single instagram post using HTML and CSS",
+    "talents": [
+        {
+            "badge": "identator",
+            "points": 10
+        },
+        {
+            "badge": "tag-master",
+            "points": 10
+        },
+        {
+            "badge": "path-master",
+            "points": 10
+        },
+        {
+            "badge": "select-everything",
+            "points": 10
+        },
+        {
+            "badge": "be-dry",
+            "points": 10
+        },
+        {
+            "badge": "abc",
+            "points": 10
+        }
+    ],
+    "session": 5977657121854492000,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "./",
+            "slug": "default-index",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": null,
+            "title": "default-index",
+            "graded": false,
+            "files": [
+                {
+                    "path": ".//.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": ".//.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": ".//.theia",
+                    "name": ".theia",
+                    "hidden": true
+                },
+                {
+                    "path": ".//README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": ".//README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": ".//bc.json",
+                    "name": "bc.json",
+                    "hidden": true
+                },
+                {
+                    "path": ".//index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": ".//package-lock.json",
+                    "name": "package-lock.json",
+                    "hidden": true
+                },
+                {
+                    "path": ".//preview.png",
+                    "name": "preview.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//strategy.gif",
+                    "name": "strategy.gif",
+                    "hidden": true
+                },
+                {
+                    "path": ".//style.css",
+                    "name": "style.css",
+                    "hidden": false
+                },
+                {
+                    "path": ".//thumb.png",
+                    "name": "thumb.png",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ]
+}

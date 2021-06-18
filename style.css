@@ -1,0 +1,53 @@
+.container {
+    width: 500px; 
+    height: 225px ;
+    margin: 30px; 
+}
+
+.footer{
+    margin: 0.5rem 10;
+    padding: 0.5 0rem;
+}
+
+.card-header {
+    width: 500px; 
+    height: 225px ;
+    margin: 30px; 
+}
+
+.py {
+    padding: 0.5 0rem;
+}
+
+img {
+    display: block;
+    width: 500px; 
+    height: 300px ;
+    margin: 30px; 
+}
+
+.mx {
+    margin: 0 0.5rem;
+}
+
+.card-header {
+    height: 2%;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+/* .box {
+    width: 1000px;
+    height: 780px;
+    margin: 0 auto;
+    padding: 1rem 0;
+    background-color: #F1EDF4;
+} */
